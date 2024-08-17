@@ -622,7 +622,7 @@ ul.row {
     height: 10rem;
 }
 
-.card-testimonials .card-avatar  cite {
+.card-testimonial .card-avatar  cite {
     display: block;
     padding-top: 1rem;
     color: var(--color-primary);
