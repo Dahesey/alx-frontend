@@ -492,10 +492,6 @@ a:active {
     display: none;
 }
 
-.card-category {
-    color: var(--color-primary);
-}
-
 .section {
     padding: var(--section-padding);
 }
@@ -713,7 +709,6 @@ ul.row {
 
 .card-work:hover .card-image {
     transform: scale(1.2);
-    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work .card-inner {
